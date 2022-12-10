@@ -1,0 +1,31 @@
+{
+    "Пистолеты": [
+        "USP-S/P2000/Glock-18",
+        "Dual Berettas",
+        "P250",
+        "Five-Seven/Tec-9/CZ-75A",
+        "Desert Eagle/R8 Revolver"
+    ],
+    "Тяжелое": [
+        "Nova",
+        "MAG-7/Sawed-off",
+        "XM1014",
+        "M249",
+        "Negev"
+    ],
+    "Пистолеты-пулеметы": [
+        "MAC-10/MP9",
+        "MP7/M5-SD",
+        "UMP-45",
+        "PP-Bizon",
+        "P90"
+    ],
+    "Винтовки": [
+        "Galil AR/FAMAS",
+        "AK-47/M4A4/M4A1-S",
+        "SG 553/AUG",
+        "AWP",
+        "SSG 08",
+        "G3SG1/SCAR-20"
+    ]
+}
